@@ -14,7 +14,7 @@ Mis intereses principales son:
 - Analisis de datos
 - SQLite/Postgrest
 - Git/Github
-
+- Desarrollo de videojuegos
 mi objetivo es seguir aprendiendo para mejorar mis habilidades necesarias para comenzar
 
 ### Lenguajes
